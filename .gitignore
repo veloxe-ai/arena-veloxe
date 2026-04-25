@@ -1,0 +1,15 @@
+node_modules
+dist
+.env
+.env.local
+.DS_Store
+*.log
+.vite
+
+# User-specific Peec data pulled via scripts/peec-pull.sh — contains your project's private visibility scores
+peec-data-*.json
+
+# Internal-only docs (not for public repo)
+CHALLENGE-CONTEXT.md
+DEMO-SCRIPT.md
+AI Arena v3*.json

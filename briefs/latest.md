@@ -1,0 +1,155 @@
+# Weekly AEO Brief — Veloxe AI
+**`2026-04-25 12:54:47 UTC`** · Runtime **147.5s** · Cost **$0.11** · 38,839 tokens · 3 frontier models · 2 rounds of debate · powered by [Peec AI MCP](https://peec.ai)
+
+## Executive Summary
+Veloxe AI has zero visibility and zero share of voice across ChatGPT, Perplexity, and Google AI Overview — while OpenAI commands 89% of the conversation in this category. The single biggest opportunity this week is securing editorial article placements in AI-cited publications, where 64 slots are completely unclaimed. The debate surfaced a critical sequencing insight Peec alone wouldn't flag: Wikipedia and owned content can't do their jobs until editorial coverage exists first — so the order of operations matters as much as the tactics themselves.
+
+---
+
+## This Week's Recommended Actions
+
+### ✅ HIGH — Secure editorial article placements in AI-cited publications
+**Consensus:** 2/3 agents | **Why it wins:** Highest score in the entire dataset (3/3) with 64 unclaimed placements — editorial articles are the primary citation source AI engines pull from, and this is the only realistic way to break through OpenAI's 89% category dominance. | **Do this week:** Identify 3–5 publications already appearing in AI responses (start with webpronews.com and iotdigitaltwinplm.com, both confirmed at 4x citation rate), draft a targeted pitch around a specific Veloxe AI use case vs. a named competitor, and submit this week.
+
+---
+
+### ✅ HIGH — Earn placement in editorial listicles covering AI platforms
+**Consensus:** 2/3 agents | **Why it wins:** 25 unclaimed placements at a lower editorial barrier than long-form articles — listicles are a structured format AI engines consistently cite, and they can run in parallel with the article push. | **Do this week:** Pitch Veloxe AI as an alternative or underdog option in "best AI tools for [specific vertical]" roundups. Target 3–4 publications simultaneously. Lead with a niche angle (legal AI, dev tooling, SME automation) where differentiation from OpenAI is defensible.
+
+---
+
+### ✅ HIGH — Feature in editorial comparison articles versus competitors
+**Consensus:** 2/3 agents | **Why it wins:** 13 unclaimed placements and AI engines frequently cite head-to-head comparisons when users ask "X vs. Y" — being absent from these is costing Veloxe AI direct consideration. | **Do this week:** Pitch a "Veloxe AI vs. [Hugging Face or Anthropic]" angle to 2–3 publications. Focus on a concrete dimension where Veloxe wins (speed, pricing, ease of integration) rather than generic capability claims.
+
+---
+
+### ✅ HIGH — Publish long-form articles on the Veloxe AI owned domain
+**Consensus:** 2/3 agents | **Why it wins:** 8 unclaimed placements and owned content is the citation origin point — without it, there's nothing for editorial partners or AI engines to link back to. | **Do this week:** Commission 2 pillar articles targeting high-volume AI category queries (not brand-specific queries). Model structure on hashmeta.com and promptlayer.com, which both show 7x+ citation rates. Publish before any editorial outreach so there's a destination URL to reference.
+
+---
+
+### 🟡 PARTIAL — Seed Medium articles about Veloxe AI
+**Consensus:** 2/3 agents | **Condition:** Owned content and at least one editorial placement need to exist first — Medium works as an amplifier, not a cold-start engine, and AI systems discount self-promotional UGC without corroborating signals. | **Modified play:** Once 2–3 editorial mentions are live, republish owned articles on Medium with canonical links pointing back to veloxe.ai. Frame as thought leadership (founder perspective, research breakdown) not product promotion. Realistic expectation: 10–15% of Medium posts get cited in AI responses vs. 40%+ for editorial articles.
+
+---
+
+### 🟡 PARTIAL — Increase LinkedIn content and mentions
+**Consensus:** 1/3 agents | **Condition:** Works best for B2B queries once there's something to amplify — LinkedIn alone won't move the needle at zero visibility. | **Modified play:** Hold LinkedIn activity until editorial placements are live, then use it to distribute and extend reach of those articles. Executive AMAs and data-led posts outperform generic brand content on this platform.
+
+---
+
+### 🟡 PARTIAL — Create or sponsor YouTube content featuring Veloxe AI
+**Consensus:** 1/3 agents | **Condition:** YouTube's 24 unclaimed placements are real, but AI engines pull YouTube citations most reliably when the content is instructional and paired with written editorial coverage. | **Modified play:** Prioritize a short demo or how-to video that mirrors the editorial how-to guide angle. Pair with the written guide for maximum retrieval surface. Don't launch in isolation.
+
+---
+
+### 🟡 PARTIAL — Establish Wikipedia presence
+**Consensus:** 1/3 agents | **Condition:** Wikipedia requires demonstrated notability via third-party coverage — submitting without editorial mentions already live is the fastest way to get rejected or flagged for conflict of interest. | **Modified play:** Wait until 3+ independent editorial articles are published and indexed. Then create a stub citing those articles as sources. Estimated lead time: 4–6 weeks from today. Do not attempt this week.
+
+---
+
+### 🟡 PARTIAL — Engage Reddit threads covering AI tools
+**Consensus:** 1/3 agents | **Condition:** Reddit's 24 placements are volume-driven, not authority-driven — useful for organic mentions but unlikely to move AI citation rates meaningfully on their own. | **Modified play:** Monitor relevant AI subreddits (r/artificial, r/MachineLearning, r/ChatGPT) for threads where Veloxe AI genuinely fits. Participate authentically rather than promoting. Do not seed promotional posts — Reddit communities flag these quickly and it can backfire in AI-indexed content.
+
+---
+
+### 🟡 PARTIAL — Publish discussion-format content on owned domain
+**Consensus:** 1/3 agents | **Condition:** Discussion content mimics the conversational format AI engines prefer, but only works once the domain has some authority signal. | **Modified play:** Build this as a secondary content type after long-form articles are live. A Q&A or FAQ format targeting "how does Veloxe AI compare to…" queries is the right angle.
+
+---
+
+### 🔴 LOW — Create owned category pages
+**Why blocked:** Only 4 placement slots and category pages are static by nature — AI engines favor dynamic, cited content over category taxonomy pages, especially for a brand with zero existing authority signals. | **Better alternative:** Redirect that effort into the long-form owned article strategy (8 placements, same score) which gives AI engines more to cite and builds domain authority faster.
+
+---
+
+### 🔴 LOW — Create owned listicle content
+**Why blocked:** Only 2 placement slots — the lowest opportunity in the entire dataset — and listicles on an uncited owned domain won't get picked up by AI engines without significant external citation first. | **Better alternative:** Pitch those same listicle angles to editorial publications (25 placements available) where the citation authority already exists.
+
+---
+
+### 🔴 LOW — Get listed on editorial category pages
+**Why blocked:** Only 3 placements and category pages are low-dynamism assets that AI engines deprioritize for conversational queries. | **Better alternative:** Combine this effort with the editorial comparison push (13 placements) — a comparison article delivers the same "listing" benefit with far more retrieval surface.
+
+---
+
+### 🔴 LOW — Appear in editorial how-to guides
+**Why blocked:** Only 3 placements at the lowest score (1) — too narrow to justify standalone effort at this stage of zero visibility. | **Better alternative:** Incorporate how-to angles into the long-form editorial article pitch (64 placements) rather than pursuing how-to guides as a separate content type.
+
+---
+
+### 🔴 MAINTAIN — Statista presence
+**Why blocked:** Already at 100% coverage — there's nothing to fix here. | **Better alternative:** Ensure the Statista data is current and accurate, then move all effort to the 100%-gap opportunities above.
+
+---
+
+## Content Patterns That Win AI Retrieval
+
+| Pattern | Evidence from Peec | Engines |
+|---------|-------------------|---------|
+| Editorial articles are the primary AI citation driver | editorial_article is the only score-3 action; 64 placements available; webpronews.com and iotdigitaltwinplm.com (both editorial) show 4x citation rates in the top URLs | ChatGPT, Perplexity, Google AI Overview |
+| Mid-tier niche corporate domains outperform brand-name publishers for citations | hashmeta.com (8x), bdccglobal.com (7.33x), promptlayer.com (7x) lead citation rates — all niche SaaS/corporate domains, not TechCrunch or Forbes | ChatGPT, Perplexity |
+| Structured formats (listicles, comparisons) generate disproportionate placement volume | editorial_listicle = 25 placements, editorial_comparison = 13 placements — combined 38 slots vs. 11 for Wikipedia | All engines |
+| UGC volume is high but authority is low without editorial corroboration | Medium (34), YouTube (24), Reddit (24) = 82 total UGC placements, all score 2 vs. editorial_article's score 3 | Perplexity, Google AI Overview |
+| Reference-tier authority (Wikipedia) amplifies editorial gains but can't precede them | reference_wikipedia shows 11 placements but requires third-party editorial citations to pass notability review | ChatGPT (Wikipedia-heavy training data) |
+
+---
+
+## Competitor Watch
+
+**OpenAI (89% SOV, 12 visibility):** Dominates every category query through sheer training data volume and brand saturation — you won't out-muscle them head-on. Counter by owning the "OpenAI alternative for [specific vertical]" angle in editorial articles and listicles, where comparison framing forces AI engines to mention both names.
+
+**Anthropic (5% SOV, 1 visibility):** The only competitor with meaningful but non-dominant presence — their positioning around safety and enterprise trust is their wedge. Counter by pitching comparison articles specifically framed as "Veloxe AI vs. Anthropic for [use case]," which is a lower bar than competing with OpenAI and captures the 13 editorial comparison placements available.
+
+**Hugging Face (3% SOV, 1 visibility):** Wins on developer community and open-source credibility — their Reddit and GitHub presence feeds AI citations organically. Counter by targeting the same developer-adjacent publications and Reddit communities with authentic technical content, not promotional posts.
+
+---
+
+## Content Briefs Ready for Your Writers
+
+### Brief 1: The Practical AI Tool Comparison — Veloxe AI vs. Anthropic for [Target Vertical]
+**Target prompt:** "What's the best AI tool for [legal/financial/HR] teams that don't want to use OpenAI?" | **Format:** Comparison article | **Length:** 1,800–2,400 words
+
+This piece should open by acknowledging the OpenAI default and then make a structured case for why mid-market teams are looking at alternatives. Cover 4–5 specific capability dimensions (speed, pricing, data privacy, integration ease, support) with Veloxe AI and Anthropic as the two subjects. Include a comparison table — AI engines cite structured tables reliably. Close with a clear recommendation framework ("choose Veloxe if… choose Anthropic if…"). The goal is to appear in AI responses to "Veloxe AI vs. Anthropic" and "OpenAI alternatives" queries simultaneously. Pitch this to webpronews.com or a vertical-specific tech publication first, then publish a version on the owned domain.
+
+---
+
+### Brief 2: Best AI Tools for [Specific Vertical] in 2026 — The Non-Obvious List
+**Target prompt:** "What AI tools should [SMEs / legal teams / dev teams] actually be using in 2026?" | **Format:** Editorial listicle | **Length:** 1,200–1,600 words
+
+This is a "best of" roundup targeting a specific industry vertical where Veloxe AI has a defensible claim. Include 7–10 tools total (Veloxe AI, OpenAI, Anthropic, Hugging Face, and 3–4 niche players). The "non-obvious" framing is key — it signals editorial independence to both human editors and AI engines. Each entry needs 100–150 words with concrete use case, pricing tier, and one honest limitation. Veloxe AI's entry should be positioned 2nd or 3rd — not first (which reads as promotional) and not last (which signals weakness). Pitch to iotdigitaltwinplm.com or a vertical trade publication. This format is what AI engines pull from most consistently for "best [category] tools" queries.
+
+---
+
+### Brief 3: How [Target User] Can Get Started with Veloxe AI in Under an Hour
+**Target prompt:** "How do I get started with Veloxe AI?" / "How does Veloxe AI work?" | **Format:** How-to guide | **Length:** 1,000–1,400 words
+
+A step-by-step onboarding guide targeting users who've just heard of Veloxe AI through a comparison or listicle. Structure: intro (who this is for), prerequisites (what you need), 5–7 numbered steps with screenshots or code snippets if applicable, common mistakes section, and a next-steps CTA. Publish on the owned domain first — this is foundational content that editorial partners can link to and that AI engines will pull from when users ask procedural questions. The how-to format is one of the most-cited structures in AI responses. This also seeds the editorial_how_to_guide placement opportunity without requiring a separate editorial pitch.
+
+---
+
+## Sources Analyzed
+- [hashmeta.com](hashmeta.com) — citation rate: 8x · Corporate
+- [bdccglobal.com](bdccglobal.com) — citation rate: 7.33x · Corporate
+- [promptlayer.com](promptlayer.com) — citation rate: 7x · Corporate
+- [cruciblebench.ai](cruciblebench.ai) — citation rate: 6x · Other
+- [networkcritical.com](networkcritical.com) — citation rate: 5.5x · Corporate
+- [roundtablelabs.ai](roundtablelabs.ai) — citation rate: 5x · Corporate
+- [botborne.com](botborne.com) — citation rate: 5x · Reference
+- [cribl.io](cribl.io) — citation rate: 5x · Corporate
+- [memetik.ai](memetik.ai) — citation rate: 5x · Corporate
+- [redactai.io](redactai.io) — citation rate: 5x · Corporate
+- [simbo.ai](simbo.ai) — citation rate: 4.5x · Corporate
+- [logicmonitor.com](logicmonitor.com) — citation rate: 4.09x · Corporate
+- [linkaibuilding.com](linkaibuilding.com) — citation rate: 4x · Corporate
+- [webpronews.com](webpronews.com) — citation rate: 4x · Editorial
+- [iotdigitaltwinplm.com](iotdigitaltwinplm.com) — citation rate: 4x · Editorial
+- [rhesis.ai](rhesis.ai) — citation rate: 4x · Corporate
+- [stackmatix.com](stackmatix.com) — citation rate: 3.8x · UGC
+- [francescatabor.com](francescatabor.com) — citation rate: 3.5x · Corporate
+- [seoclarity.net](seoclarity.net) — citation rate: 3.5x · Corporate
+- [unstructured.io](unstructured.io) — citation rate: 3.5x · Corporate
+
+---
+*Generated by ARENA · Run `local_17` · 2026-04-25 12:54:47 UTC · Runtime 147.5s · Cost $0.1147 · Powered by [Peec AI MCP](https://peec.ai) · Built by [Veloxe AI](https://veloxe.ai)*
+*3 frontier models · 30 tracked chats · 20 cited sources · 15 Peec actions debated*
