@@ -114,7 +114,9 @@ Screen recording of arena.veloxe.ai with a talking-head presenter in the lower-r
 
 **1:54–2:12** — Type "OpenAI" → Run. Fast-motion agents. OpenAI brief reveals at normal speed (money shot). Presenter closing: "Different brand, completely different story — same engine, 95 seconds, eight cents a run. Veloxe AI. We build what others dream about. #BuiltWithPeec."
 
-**Video:** `[link — to be added on upload]`
+**Main demo (2:12):** https://youtu.be/jk-wcLnB9-A
+
+**Install walkthrough (1:37):** https://youtu.be/ImLmtyDp8rk
 
 ---
 
@@ -135,3 +137,5 @@ Screen recording of arena.veloxe.ai with a talking-head presenter in the lower-r
 > Built by @VeloxeAI · #BuiltWithPeec
 
 **LinkedIn:** longer, same substance, framed for SEO/AEO consultants.
+
+**X post:** https://x.com/viralstrikeai/status/2048220696187203625
