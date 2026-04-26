@@ -31,7 +31,7 @@ create index if not exists arena_runs_brand_idx       on public.arena_runs (bran
 create index if not exists arena_runs_status_idx      on public.arena_runs (status);
 
 -- ─── arena_agents ─────────────────────────────────────────────
--- One row per (run, model family, phase). 3 rounds × 4 agents = 12 rows per run.
+-- One row per (run, model family, phase). 3 rounds × 3 agents = 9 rows per run.
 create table if not exists public.arena_agents (
   id               uuid primary key default gen_random_uuid(),
   run_id           uuid not null references public.arena_runs(id) on delete cascade,
