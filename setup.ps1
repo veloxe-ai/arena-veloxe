@@ -1,5 +1,16 @@
 # ARENA -- One-click setup
-# Usage: Set-ExecutionPolicy Bypass -Scope Process -Force; .\setup.ps1
+# Usage: Right-click PowerShell -> Run as Administrator, then:
+# Set-ExecutionPolicy Bypass -Scope Process -Force; .\setup.ps1
+
+# Admin check
+if (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
+    Write-Host ""
+    Write-Host "  [!!] Run this script as Administrator." -ForegroundColor Red
+    Write-Host "       Right-click PowerShell -> 'Run as Administrator', then try again." -ForegroundColor Yellow
+    Write-Host ""
+    pause
+    exit 1
+}
 
 function Banner {
     Clear-Host
@@ -194,8 +205,11 @@ Write-Host "  Then open:  http://localhost:3010" -ForegroundColor DarkGray
 Write-Host "  The dashboard updates live as the orchestrator runs." -ForegroundColor DarkGray
 Write-Host ""
 Write-Host "  =============================================================" -ForegroundColor Green
-Write-Host "  Setup complete. Time to build your AI visibility edge." -ForegroundColor Green
+Write-Host "  Setup complete. Launching the dashboard now..." -ForegroundColor Green
 Write-Host "  =============================================================" -ForegroundColor Green
 Write-Host ""
-
-pause
+Write-Host "  Opening dashboard at http://localhost:3010 ..." -ForegroundColor Cyan
+Write-Host "  (Run the orchestrator in a second terminal to see live data)" -ForegroundColor DarkGray
+Write-Host ""
+Start-Sleep -Seconds 2
+npm run dev
