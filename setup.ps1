@@ -129,8 +129,8 @@ if (Test-Path ".env") {
     Write-Host "    4. Copy the key that starts with:  sk-or-v1-..." -ForegroundColor Cyan
     Write-Host "    5. Paste it below and press Enter" -ForegroundColor Cyan
     Write-Host ""
-    Write-Host "  TIP: Add $2-$5 of credit to your OpenRouter account." -ForegroundColor Yellow
-    Write-Host "       A full ARENA run costs roughly $0.10-0.20." -ForegroundColor Yellow
+    Write-Host "  TIP: Add `$2-`$5 of credit to your OpenRouter account." -ForegroundColor Yellow
+    Write-Host "       A full ARENA run costs roughly `$0.10-0.20." -ForegroundColor Yellow
     Write-Host ""
 
     $key = Read-Host "  Paste your OpenRouter API key here"
